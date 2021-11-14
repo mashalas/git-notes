@@ -11,5 +11,5 @@ Expiration=NoExpiration
 [git add .] [git add <filename>]
 git commit
 
-
+git push https://ghp_tokenTOKENtokenTOKENtokenTOKEN@github.com/mashalas/git-notes.git	Отправить изменения на сервер
 
