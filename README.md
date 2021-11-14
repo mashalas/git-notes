@@ -9,7 +9,7 @@ Expiration=NoExpiration
 
 Добавить файл(ы) в локальный репозиторий
 [git add .] [git add <filename>]
-git commit
+[git commit] [git commit -m "new commit"]
 
 git push https://ghp_tokenTOKENtokenTOKENtokenTOKEN@github.com/mashalas/git-notes.git	Отправить изменения на сервер
 
