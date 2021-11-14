@@ -3,7 +3,7 @@
 git clone https://www.github.com/mashalas/git-notes.git		Скачать репозиторий
 
 Сгенерировать токен:
-Значёк профиля/Settings/Developer Settings/Personal access tokens/Generate new token
+Значок профиля/Settings/Developer Settings/Personal access tokens/Generate new token
 Expiration=NoExpiration
 [+] repo; установятся галочки для вложенных действий
 
