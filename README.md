@@ -13,3 +13,4 @@ Expiration=NoExpiration
 
 git push https://ghp_tokenTOKENtokenTOKENtokenTOKEN@github.com/mashalas/git-notes.git	Отправить изменения на сервер
 
+git add <files> && git commit --amend -m "новый коммит заменяющий предыдущий"
